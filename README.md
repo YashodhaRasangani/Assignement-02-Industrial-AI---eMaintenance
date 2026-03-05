@@ -1,5 +1,3 @@
-# Assignement 02-Industrial AI & eMaintenance
-Staistical Analysis of Industrial Operations Data
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
